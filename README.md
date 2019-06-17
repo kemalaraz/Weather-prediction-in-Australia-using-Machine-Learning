@@ -62,6 +62,12 @@ Models trained and tested. All the models have higher accuracy then balanced acc
 ![](tables/Eval1.JPG) <br>
 ![](tables/Eval2.JPG) <br>
 
+<br>
+### REFERENCES
+Little’s Test of Missing Completely at Random li, 2014 <br>
+Effectiveness of Different Missing Data Treatments in Surveys with Likert-Type Data: Introducing the Relative Mean Substitution Approach, Raaijmakers,1999 Weiss, Gary M., Kate McCarthy, and Bibi Zabar. "Cost-sensitive learning vs. sampling: Which is best for handling unbalanced classes with unequal error costs?." DMIN 7 (2007): 35-41. <br>
+Roderick J. A. Little. (1988). A Test of Missing Completely at Random for Multivariate Data with Missing Values. Journal of the American Statistical Association, 83(404), 1198-1202. doi:10.2307/2290157 <br>
+Schafer JL. Multiple imputation: a primer. Stat Methods Med Res. 1999;8:3–15 <br>
 
 
 
